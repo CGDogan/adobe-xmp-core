@@ -27,6 +27,10 @@ import com.adobe.internal.xmp.options.TemplateOptions;
  */
 public class XMPUtils
 {
+
+	        public static void main(String[] s) throws Exception {
+                convertToDate("abc");
+        }
 	/** Private constructor */
 	private XMPUtils()
 	{
